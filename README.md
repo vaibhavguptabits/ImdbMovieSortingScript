@@ -1,0 +1,6 @@
+# ImdbMovieSortingScript
+This pyhton script enable the user to sort their movies according to Imdb rating. This script has certain restriction and some manual effort
+need to be put to make this work.  The specified movie folder should contain movies directly , it should not be inside another folder. 
+it may be possible that some ofthe movies didn't get sorted because of couple of reason. Like Fast and Furious 7 was not 
+getting sorted because on Imdb database the name of the movie is Furious Seven.
+Improvements are welcome
